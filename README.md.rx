@@ -1,0 +1,22 @@
+
+# 4096
+My take on the 2048 game.
+
+
+## Package details
+{{ npm.packageDetails() }}
+
+
+## Dependencies
+{{ npm.dependencyTable() }}
+
+
+## Dev dependencies
+{{ npm.devDependencyTable() }}
+
+
+## License
+{{ "LICENSE" | File }}
+
+
+{{ giveCredit() }}
