@@ -35,8 +35,9 @@ My take on the 2048 game.
 | 11  | `miniwindcss`                      | `^0.2.2`    |
 | 12  | `postcss`                          | `^8.4.23`   |
 | 13  | `tailwindcss`                      | `^3.3.2`    |
-| 14  | `typescript`                       | `^5.0.2`    |
-| 15  | `vite`                             | `^4.3.2`    |
+| 14  | `top-100-yc-companies`             | `^0.9.0`    |
+| 15  | `typescript`                       | `^5.0.2`    |
+| 16  | `vite`                             | `^4.3.2`    |
 
 
 
